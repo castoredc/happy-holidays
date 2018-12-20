@@ -1,11 +1,15 @@
 {
   "name": "castoredc/happy-holidays",
+  "license": "MIT",
   "description": "A friendly holiday greeting from everyone at Castor EDC",
   "bin": [
     "bin/happy-holidays.php"
   ],
   "require": {
     "league/climate": "^3.4"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master"
   },
   "authors": [
     {
