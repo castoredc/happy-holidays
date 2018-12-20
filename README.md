@@ -11,7 +11,7 @@ composer require castoredc/happy-holidays
 ### Running
 
 ```
-bin/happy-holidays.php
+vendor/bin/happy-holidays.php
 ```
 
 ### Special Thanks
