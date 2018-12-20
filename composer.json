@@ -1,0 +1,16 @@
+{
+  "name": "castoredc/happy-holidays",
+  "description": "A friendly holiday greeting from everyone at Castor EDC",
+  "bin": [
+    "bin/happy-holidays.php"
+  ],
+  "require": {
+    "league/climate": "^3.4"
+  },
+  "authors": [
+    {
+      "name": "Talent Team",
+      "email": "talent@castoredc.com"
+    }
+  ]
+}
