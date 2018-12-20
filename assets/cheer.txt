@@ -23,11 +23,9 @@
 <red>            .-""-.</red>     ┌─────────────────────────────────────────────────┐
 <red>           /,..___\</red>    │ <blue>*</blue> Learn more at https://careers.castoredc.com <blue>*</blue> │
 <white>          () {_____}</white>   └─────────────────────────────────────────────────┘
-<light_gray>             /  <white><blink>=</blink></white> <blink><white>=</white></blink>\</light_gray>   /
-<light_gray>            /   ._Y_)</light_gray>    
-<light_gray>           /      "\</light_gray>      
-<light_gray>          (_/  (_,  \           </light_gray>             
-<light_gray>            \      ( \_,--""""--.</light_gray>
-<light_gray>           ,<underline>-</underline>`.` ',-__`)-.______.'</light_gray>
-
-
+<yellow>             /  </yellow><white><blink>=</blink></white> <blink><white>=</white></blink><yellow>\</yellow>   /
+<yellow>            /   ._Y_)</yellow>    
+<yellow>           /      "\</yellow>      
+<yellow>          (_/  (_,  \           </yellow>             
+<yellow>            \      ( \_,--""""--.</yellow>
+<yellow>           ,<underline>-</underline>`.` ',-__`)-.______.'</yellow>

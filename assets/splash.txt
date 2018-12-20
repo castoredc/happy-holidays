@@ -16,8 +16,8 @@
 <blue>      `:`         :::.   </blue><cyan>   \ \ /\ / / / __| '_ \ / _ \/ __| | | | |/ _ \| | | |</cyan>
 <blue>        :        ::;:.   </blue><cyan>    \ V  V /| \__ \ | | |  __/\__ \ | |_| | (_) | |_| |</cyan>
 <blue>                 ::::`   </blue><cyan>     \_/\_/ |_|___/_| |_|\___||___/  \__, |\___/ \__,_|</cyan>
-<blue>                ;::::    </blue><cyan>                                       __/ |</cyan>
-<blue>     ;        `;:::;:    </blue><cyan>                                      |___/</cyan>
+<blue>                ;::::    </blue><cyan>                                      __/ |</cyan>
+<blue>     ;        `;:::;:    </blue><cyan>                                     |___/</cyan>
 <blue>     :::    `;::::::     </blue>
 <blue>      ;::::::::::::.     </blue>
 <blue>       :::::::::;:.      </blue>
